@@ -1,0 +1,16 @@
+{
+  "name": "cv-server",
+  "version": "1.0.0",
+  "description": "CV website of Alexandra Zhavneronok - Junior C++ Developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cv", "resume", "portfolio", "cplusplus", "developer"],
+  "author": "Alexandra Zhavneronok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
